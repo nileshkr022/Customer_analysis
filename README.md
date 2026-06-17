@@ -42,7 +42,9 @@ Customer-Behavior-Data-Analysis/
 ├── customer_dashboard.pbix
 └── README.md
 ```
+## 📊 Dashboard Preview
 
+![Power BI Dashboard](Screenshot 2026-06-17 191835.png)
 ---
 
 ## 🔄 Workflow
