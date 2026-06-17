@@ -44,7 +44,7 @@ Customer-Behavior-Data-Analysis/
 ```
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](Screenshot 2026-06-17 191835.png)
+![Power BI Dashboard](screenshot.png)
 ---
 
 ## 🔄 Workflow
